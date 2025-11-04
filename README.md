@@ -1,6 +1,6 @@
 # Program untuk menghitung volume dari tabung
 Program ini digunakan untuk menghitung volume tabung dengan memanfaatkan fungsi (method) berparameter agar lebih terstruktur.
-Fungsi hitungVolume(double jariJari, double tinggi) menerima dua nilai, yaitu jari-jari dan tinggi tabung, lalu menghitung volumenya menggunakan rumus Volume=pi*r*r*t.
+Fungsi hitungVolume(double jariJari, double tinggi) menerima dua nilai, yaitu jari-jari dan tinggi tabung, lalu menghitung volumenya menggunakan rumus Volume= pi * r * r * t.
 Fungsi kemudian mengembalikan hasil perhitungan ke main(), dan program menampilkan hasil volume tabung berdasarkan input pengguna.
 
 Contohnya seperti di bawah ini
